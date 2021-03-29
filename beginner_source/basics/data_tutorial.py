@@ -25,7 +25,7 @@ Datasets & Dataloaders
 # PyTorch domain libraries provide a number of pre-loaded datasets (such as FashionMNIST) that 
 # subclass ``torch.utils.data.Dataset`` and implement functions specific to the particular data.
 # They can be used to prototype and benchmark your model. You can find them
-# here: `Image Datasets <https://pytorch.org/docs/stable/torchvision/datasets.html>`_,
+# here: `Image Datasets <https://pytorch.org/vision/stable/datasets.html>`_,
 # `Text Datasets  <https://pytorch.org/text/stable/datasets.html>`_, and
 # `Audio Datasets <https://pytorch.org/audio/stable/datasets.html>`_
 #
